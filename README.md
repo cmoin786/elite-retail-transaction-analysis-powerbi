@@ -1,5 +1,6 @@
 # Elite Retail Transaction Analysis Dashboard
 
+
 ## Project Overview
 
 This project presents an interactive Power BI dashboard built on a retail transaction dataset from the UK.
@@ -31,7 +32,8 @@ The dashboard provides insights into revenue, profit, orders, customer segments,
 
 ## Dataset Tables
 
-* Sales Transactions
+* Sales Transactions (Original dataset is large and not included in the repository.
+A sample dataset has been provided for demonstration purposes.)
 * Customers
 * Product Categories
 * Product Catalog
